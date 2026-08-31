@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Secrets and Local Configurations
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+
+# Pytest & Testing Artifacts
+.pytest_cache/
+test-results/
+playwright-report/
